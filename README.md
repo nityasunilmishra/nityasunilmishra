@@ -52,16 +52,3 @@ Instead of rushing, I am trying to focus on the core fundamentals of computer sc
 
 <br>
 
-### 📊 GitHub Profile Summary
-*Auto-updated daily with GitHub Actions, so it stays current without depending on unstable public README stats services.*
-
-<p align="left">
-  <img src="assets/profile-summary.svg" alt="GitHub profile summary" width="720" />
-</p>
-
-<br>
-
-<div align="center">
-  <!-- Clean, minimal profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=nityasunilmishra&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-</div>
